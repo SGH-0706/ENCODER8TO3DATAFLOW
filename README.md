@@ -60,6 +60,8 @@ assign c=(din[1]| din[3]| din[5 ]| din[7]);
 endmodule
 ```
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
+
 ![image](https://github.com/user-attachments/assets/7e078ef6-027d-40f8-bebc-9b0ea5334f1a)
 
 
